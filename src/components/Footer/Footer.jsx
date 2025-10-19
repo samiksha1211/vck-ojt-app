@@ -1,7 +1,7 @@
-import './Footer.css'
+import './Footer.css';
 const Footer = () =>{
     return(
-          <footer className="footer">
+          <footer className="Footer">
             <p>&copy;{new Date().getFullYear()}vivekanand college.All right reserved.</p>
         </footer>
     );
