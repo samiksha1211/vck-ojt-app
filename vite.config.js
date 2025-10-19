@@ -1,8 +1,8 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vite.dev/config/
+// ✅ Vite configuration for Vercel deployment
 export default defineConfig({
   plugins: [react()],
-  base:'./',//
+  base: './', // important: use relative path for Vercel
 })
