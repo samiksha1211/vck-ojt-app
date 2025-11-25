@@ -20,7 +20,7 @@ const AboutPage =() =>{
             <h2>Our Values</h2>
             <p>Integrity, Excellence, Innovation, Community, and Respect are the pillars upon which Vivekanand College is built. We encourage open dialogue, intellectual curiosity, and a relentless pursuit of knowledge.</p><hr/>
             <h2>Our History</h2>
-            <p>[Briefly describe the college's history - e.g., how it started, key milestones, growth over the years, famous alumni if any]. Our journey began with a vision to make quality education available to all, and we continue that legacy today.</p>
+            <p>[Briefly describe the college's history - e.g.,how it started, key milestones, growth over the years, famous alumni if any]. Our journey began with a vision to make quality education available to all, and we continue that legacy today.</p>
             </div>
          </div>
         </div>
